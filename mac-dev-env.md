@@ -96,14 +96,13 @@ $ cat ~/.ssh/id_rsa.pub C : "cat ~/.ssh/id_rsa.pub | pbcopy"와 동일한 명령
 ---------------
 맥에서 필요한 앱 설치는 [이곳][mac_apps]을 참고하여 설치 및 셋팅을 진행하면 된다.
 
-[homebrew]: https://github.com/mimul/dev-culture/blob/master/mac-homebrew.md
-[mac_git]: https://github.com/mimul/dev-culture/blob/master/mac-git.md
+[homebrew]: https://github.com/wiseeco/dev-culture/blob/master/mac-homebrew.md
+[mac_git]: https://github.com/wiseeco/dev-culture/blob/master/mac-git.md
 [mac_terminal]: http://i.imgur.com/sDxus3j.png
-[git_dotfiles]: https://github.com/mimul/dotfiles
 [vim]: http://www.mimul.com/pebble/default/2014/07/15/1405420918073.html
 [vim_image]: http://www.mimul.com/pebble/default/images/blog/tech/vi-vim-cheat-sheet-ko.png
 [mac_terminal]: http://i.imgur.com/sDxus3j.png
 [git_dotfiles]: https://github.com/mimul/dotfiles
 [vim]: http://www.mimul.com/pebble/default/2014/07/15/1405420918073.html
 [vim_image]: http://www.mimul.com/pebble/default/images/blog/tech/vi-vim-cheat-sheet-ko.png
-[mac_apps]: https://github.com/mimul/dev-culture/blob/master/mac-apps.md
+[mac_apps]: https://github.com/wiseeco/dev-culture/blob/master/mac-apps.md
