@@ -113,9 +113,9 @@ Edit Configuration에서 Add New Configuration클릭한 다음 Tomcat Server>Loc
     ```
 
 - Tomcat VM Option
-```
--Dfile.encoding=UTF-8 -Xms1024m -Xmx1024m -XX:PermSize=64m -XX:MaxPermSize=256m
-```
+    ```
+    -Dfile.encoding=UTF-8 -Xms1024m -Xmx1024m -XX:PermSize=64m -XX:MaxPermSize=256m
+    ```
 
 - 단축키 정보
     ```
