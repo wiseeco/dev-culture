@@ -28,7 +28,7 @@ $ brew update # 최신버전 업데이트.
 ```
 
 ### 3. 기타
-brew search 시에 만나게 되는 "GitHub API rate limit exceeded" 메세지 출현을 해결하기 이해 아래 방법대로 처리한다.
+brew search 시에 만나게 되는 "GitHub API rate limit exceeded" 메세지 출현을 해결하기 위해 아래 방법대로 처리한다.
 ```
 # 남은 조회 횟수 확인
 $ curl -i https://api.github.com/users/whatever
